@@ -1,0 +1,1 @@
+en lugar de describir cada acción individual en casos de prueba, las pruebas se pueden definir en un nivel superior de abstracción utilizando palabras clave. Se pueden lograr niveles más altos de abstracción mediante el uso de palabras clave compuestas, que se componen de otras palabras clave para describir las acciones asociadas.
